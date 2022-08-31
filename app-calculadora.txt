@@ -1,18 +1,3 @@
-// Pasos para inicializar todo
-// npm init -y
-// git init
-// npm install nodemon -D
-// .gitignore
-// ver en el jason los scripts para testear la calculadora.
-
-
-
-
-
-
-
-
-
 Vamos a programar una calculadora sencilla con los conocimientos que hemos adquirido
 hasta el momento.
 La calculadora contará con 4 funciones básicas:
