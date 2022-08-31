@@ -6,5 +6,4 @@ const num2 = 2;
 //para luego utilizarlo en otro lado.
 const resultado = sumar(num1,num2);
 
-console.log("Suma entre ", num1, " y ", num2);
-console.log(resultado);
+console.log("El resultador de la suma entre ", num1, " y ", num2, " es ", resultado);

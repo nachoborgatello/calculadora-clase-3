@@ -4,11 +4,11 @@
   "description": "",
   "main": "Sumar.js",
   "scripts": {
-    "test:sumar":"node test/testSumar.js",
-    "test:restar":"node test/testRestar.js",
-    "test:dividir":"node test/testDividir.js",
-    "test:multiplicar":"node test/testMultiplicar.js",
-    "start":""
+    "test:sumar": "nodemon test/testSumar.js",
+    "test:restar": "nodemon test/testRestar.js",
+    "test:dividir": "nodemon test/testDividir.js",
+    "test:multiplicar": "nodemon test/testMultiplicar.js",
+    "start": "nodemon Calculadora.js"
   },
   "author": "",
   "license": "ISC",
